@@ -11,4 +11,4 @@ Jenkins
 Maven
 Ansible
 Docker &
-Kubernetes
+Kubernete
